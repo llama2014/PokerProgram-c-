@@ -70,6 +70,10 @@ namespace Poker
             return cards[cardNum - 1].Name;
         }
 
+        public string Text
+        {
+
+        }
 
     }
 }
